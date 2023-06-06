@@ -1,0 +1,7 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.containerWrap {
+  @apply container mx-auto max-w-4xl;
+}
