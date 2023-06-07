@@ -9,7 +9,7 @@ Real-time chat room powered by
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone down this repository. You will need node.js and git installed globally on your machine.</p>
+<p>1. Clone down this repository. You will need `node.js` and `git` installed globally on your machine.</p>
 
 <p>2. Installation:</p>
 
