@@ -11,13 +11,13 @@ Real-time chat room powered by
 
 1. Clone down this repository. You will need `node.js` and `git` installed globally on your machine
 
-<p>2. Installation:</p>
+2. Installation:
 
 ```
 npm install
 ```
 
-<p>3. In the project directory run:</p>
+3. In the project directory run:
 
 ```
 npm run dev
