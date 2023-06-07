@@ -31,6 +31,6 @@ Technologies used in the project:
 
 *   ReactJS
 *   Tailwind CSS
-*   Firebase
+*   [Firebase](https://firebase.google.com/?utm_source=firechat).
 *   DaisyUI
 *   Vite
