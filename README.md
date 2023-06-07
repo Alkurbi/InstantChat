@@ -29,8 +29,8 @@ npm run dev
 
 Technologies used in the project:
 
-*   ReactJS
-*   Tailwind CSS
+*   [ReactJS](https://react.dev/).
+*   [Tailwind CSS](https://tailwindcss.com/).
 *   [Firebase](https://firebase.google.com/?utm_source=firechat).
-*   DaisyUI
-*   Vite
+*   [DaisyUI](https://daisyui.com/).
+*   [ViteJS](https://vitejs.dev/).
