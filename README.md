@@ -1,7 +1,7 @@
 <h1 align="center" id="title">InstantChat</h1>
 
 Real-time chat room powered by
-[Firebase](https://firebase.google.com/?utm_source=firechat).
+[Firebase](https://firebase.google.com/?utm_source=firechat) for Google authentication and data storage.
 
 <h2>🚀 Demo</h2>
 
