@@ -5,7 +5,7 @@ Real-time chat room powered by
 
 <h2>🚀 Demo</h2>
 
-[Try me](https://instantchat-16fa1.web.app/)
+[>>> Try it <<<](https://instantchat-16fa1.web.app/)
 
 <h2>🛠️ Installation Steps:</h2>
 
